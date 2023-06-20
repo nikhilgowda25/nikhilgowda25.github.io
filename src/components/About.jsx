@@ -19,11 +19,11 @@ export default function About() {
             performance and troubleshooting & debugging the same to bolster overall performance.
             </p>
             <div className="mt-6 flex flex-row justify-center items-center gap-4">
-                <a 
+                <a href="#contact"
                 className="bg-green-500 text-white px-4 py-2 text-lg rounded hover:bg-green-600 cursor-pointer">
                     Work With Me
                 </a>
-                <a
+                <a href="projects"
                 className="bg-gray-800 text-gray-400 hover:bg-gray-700 px-4 py-2 rounded cursor-pointer text-lg">
                     See My Past Work
                 </a>
