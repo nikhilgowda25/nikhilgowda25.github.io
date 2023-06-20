@@ -23,7 +23,7 @@ export default function About() {
                 className="bg-green-500 text-white px-4 py-2 text-lg rounded hover:bg-green-600 cursor-pointer">
                     Work With Me
                 </a>
-                <a href="projects"
+                <a href="#projects"
                 className="bg-gray-800 text-gray-400 hover:bg-gray-700 px-4 py-2 rounded cursor-pointer text-lg">
                     See My Past Work
                 </a>
