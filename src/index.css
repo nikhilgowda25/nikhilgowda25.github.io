@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .projects:hover > .project-tile {
+  display: block;
+} */
