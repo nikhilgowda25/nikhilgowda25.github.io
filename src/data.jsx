@@ -5,7 +5,7 @@ export const projects = [
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
       image: "CouterChaosGif.gif",
-      link: "https://reactbootcamp.com",
+      link: "https://github.com/nikhilgowda25/CouterCoucher",
     },
     {
       title: "VanLife",
@@ -13,7 +13,7 @@ export const projects = [
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
       image: "VanLifeGif.gif",
-      link: "https://reactbootcamp.com",
+      link: "https://github.com/nikhilgowda25/VanLife",
     },
     {
       title: "Tenzies",
@@ -21,7 +21,7 @@ export const projects = [
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
       image: "TenziesGif.gif",
-      link: "https://reactbootcamp.com",
+      link: "https://github.com/nikhilgowda25/Tenzies",
     },
     {
       title: "Markdown Notes",
@@ -29,7 +29,7 @@ export const projects = [
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
       image: "MarkdownNotes.gif",
-      link: "https://reactbootcamp.com",
+      link: "https://github.com/nikhilgowda25/MarkdownNotes",
     },
   ];
   

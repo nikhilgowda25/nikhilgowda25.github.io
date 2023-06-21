@@ -31,7 +31,7 @@ export default function Projects() {
                             <div className="relative">
                                 <img src={project.image} 
                                     className="project-img absolute inset-0 w-full h-full object-cover 
-                                    object-center" 
+                                    object-center rounded-lg" 
                                 />
                                 <div className="border-4 border-gray-800 bg-gray-900 w-full h-full py-12 px-6 relative 
                         opacity-0 hover:opacity-100 z-50 project-tile">
